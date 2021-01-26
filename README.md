@@ -33,3 +33,8 @@ Server is accessible at `localhost:8085`. Port can be configured inside `hello-w
 The original project is created by cakraww and is stored at [dropwizard-gradle](https://github.com/cakraww/dropwizard-gradle) repo.
 This repo contains only the adjusted version of the other one, only for learning purposes.
 
+### New Added
+```
+git clone saeed/repo.git
+```
+
